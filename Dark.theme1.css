@@ -879,10 +879,10 @@ button[aria-label="Send a gift"] {
 .wordmark-2u86JB > svg {
   display: none;
 }
-.wordmark-2u86JB:after {
+/* .wordmark-2u86JB:after {
   filter: invert(0%) sepia(50%) saturate(3000%) hue-rotate(210deg) brightness(70%) contrast(200%);
   content: url("");
-}
+} */
 
 .channelName-3KPsGw,
 .subtitle-3PyFgf {
